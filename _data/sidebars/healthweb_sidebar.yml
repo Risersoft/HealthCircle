@@ -1,0 +1,60 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Health Circle Web
+  
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: single
+    url: /health-circle/introduction.html
+    folderitems:
+    -
+    
+  - title: Sign In
+    output: single
+    url: /health-circle/signin.html
+    folderitems:
+    -    
+
+  - title: My Profile
+    output: single
+    url: /health-circle/myprofile.html
+    folderitems:
+    - 
+  - title: My Family
+    output: single
+    url: /health-circle/myfamily.html
+    folderitems:
+    -
+  - title: My Devices
+    output: single
+    url: /health-circle/mydevices.html
+    folderitems:
+    -
+  - title: My Reports
+    output: single
+    url: /health-circle/myreports.html 
+    folderitems:    
+    -    
+      
+  - title: My Circles
+    output: single
+    url: /health-circle/mycircles.html
+    folderitems:
+    -
