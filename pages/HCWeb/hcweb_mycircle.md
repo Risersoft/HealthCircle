@@ -13,19 +13,15 @@ comments: false
 
 ![](/images/healthcirclemycircle.png)
 
-We can add circle clicking on + sign button
+We can add circle clicking on + sign button and send invitation for to be added member clicking on Invite Button.
 
 ![](/images/healthcirclemymember.png)
 
-**Under Construction & Coming Soon**
+After invitation send it is showing under Invite Sent section.
 
-My Activity
+![](/images/healthcircleinvitesent.png)
 
-My Vitals
 
-Circle Activity
-
-Circle Vitals
 
 
 
